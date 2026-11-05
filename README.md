@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋👋👋
 
 <!--
 **ng00sj/ng00sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ng00sj&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ng00sj&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ng00sj&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ng00sj&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ng00sj&theme=dark&utcOffset=0)
