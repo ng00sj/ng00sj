@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ng00sj&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ng00sj&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ng00sj&theme=dark)
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ng00sj&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ng00sj&theme=dark&utcOffset=0)
+-->
