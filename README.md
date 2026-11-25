@@ -1,3 +1,11 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ng00sj&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ng00sj&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ng00sj&theme=dark)
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ng00sj&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ng00sj&theme=dark&utcOffset=0)
+-->
+
 ## 幸會幸會 🙏 近來可好
 
 - 🔭 I’m currently working on MY WORK
@@ -20,12 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [x.com](https://x.com/ng00sj)
 - 😄 Pronouns: ??
 - ⚡ Fun fact: My hearts beats 114,514 times a day
--->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ng00sj&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ng00sj&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ng00sj&theme=dark)
-<!--
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ng00sj&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ng00sj&theme=dark&utcOffset=0)
 -->
